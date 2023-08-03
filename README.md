@@ -1,7 +1,7 @@
 ![Logo](DIETxPosome.jpg)
 
 # Literature_mining_of_contaminants_in_food_groups
-Literature mining of 96 contaminants in 72 foods from PubMed. This work part of [DIETxPOSOME](https://i3a-laqv.pt/Projects_DIETxPosomePhone/Projects_DIETxPosomePhone/) project of [FOODinteract Research Team](https://i3a-laqv.pt/). The code used in this repository was adapted from [FoodMine](https://github.com/fhooton/FoodMine).
+Literature mining of 96 contaminants in 72 foods from PubMed. This work is part of [DIETxPOSOME](https://i3a-laqv.pt/Projects_DIETxPosomePhone/Projects_DIETxPosomePhone/) project of [FOODinteract Research Team](https://i3a-laqv.pt/). The code used in this repository was adapted from [FoodMine](https://github.com/fhooton/FoodMine).
 
 > **From data to insight: Exploring contaminants in different food groups with literature mining and machine learning techniques**
 >
